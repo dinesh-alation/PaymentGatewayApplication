@@ -1,6 +1,6 @@
 # PaymentGatewayApplication
 Architecture:
-Presentation Layer: This layer is responsible for handling HTTP requests and responses. It includes the RESTful API controllers, which define the API endpoints and interact with incoming requests from clients.
+Controllers: This layer is responsible for handling HTTP requests and responses. It includes the RESTful API controllers, which define the API endpoints and interact with incoming requests from clients.
 
 Business Logic Layer: The business logic layer contains services that process the incoming requests, perform business operations, and communicate with the data layer. It also includes Data Transfer Objects (DTOs) for mapping data between the API and data entities.
 
