@@ -52,8 +52,6 @@ Purpose: This endpoint allows merchants to register with the Payment Gateway. Wh
 
 Example Request Body (MerchantDTO):
 
-json
-Copy code
 {
   "merchantId": "your-merchant-id",
   "name": "Merchant Name",
